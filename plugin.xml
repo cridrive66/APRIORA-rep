@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="APRIORA" version="0.2">
+    <pyqgis_plugin name="APRIORA" version="0.3">
         <name>APRIORA</name>
         <version>0.3</version>
         <description>Flow estimation in ungauged subcatchments</description>
