@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="APRIORA" version="0.2">
+        <name>APRIORA</name>
+        <version>0.2</version>
+        <description>Flow estimation in ungauged subcatchments</description>
+        <!--homepage>https://github.com/cridrive66/APRIORA-rep</homepage-->
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>APRIORA-river-routing.zip</file_name>
+        <download_url>https://unibox.uni-rostock.de/dl/fi2CyznZhN38HAtzvtDs3i/APRIORA-river-routing.zip</download_url>
+        <author_name>Cristiano Guidi</author_name>
+        <experimental>false</experimental>
+        <deprecated>false</deprecated>
+        <!--tracker>https://github.com/cridrive66/APRIORA-rep/issues</tracker-->
+        <!--repository>https://github.com/cridrive66/APRIORA-rep</repository-->
+        <tags>flow,hydrology,river,routing,ungauged</tags>
+    </pyqgis_plugin>
+</plugins> 
