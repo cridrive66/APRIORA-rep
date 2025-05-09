@@ -2,7 +2,7 @@
 <plugins>
     <pyqgis_plugin name="APRIORA" version="0.2">
         <name>APRIORA</name>
-        <version>0.2</version>
+        <version>0.3</version>
         <description>Flow estimation in ungauged subcatchments</description>
         <!--homepage>https://github.com/cridrive66/APRIORA-rep</homepage-->
         <qgis_minimum_version>3.0</qgis_minimum_version>
