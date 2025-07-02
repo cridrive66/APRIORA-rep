@@ -3,7 +3,8 @@
     <pyqgis_plugin name="APRIORA" version="0.5">
         <name>APRIORA</name>
         <version>0.5</version>
-        <description>Flow estimation in ungauged subcatchments</description>
+        <description>Estimation of flow and Active Pharmaceutical Ingredients (API) in a catchment. Requires the 'scikit-learn' Python library (install via OSGeo4W Shell).</description>
+        <about>This plugin contains a series of tools divided into two subgroups: Flow Estimation and API emission. Flow estimation -> useful to estimate annual mean flow and annual mean low flow in ungauged subcatchments. API emission -> calculate the load of API from waste water treatment plants and their concentration in the river network.<about>
         <!--homepage>https://github.com/cridrive66/APRIORA-rep</homepage-->
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>APRIORA-main.zip</file_name>
@@ -13,6 +14,6 @@
         <deprecated>false</deprecated>
         <!--tracker>https://github.com/cridrive66/APRIORA-rep/issues</tracker-->
         <!--repository>https://github.com/cridrive66/APRIORA-rep</repository-->
-        <tags>flow,hydrology,river,routing,ungauged</tags>
+        <tags>water, catchment, flow estimation, river, pollutants, risk assessment</tags>
     </pyqgis_plugin>
 </plugins> 
