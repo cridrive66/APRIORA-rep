@@ -4,11 +4,11 @@
         <name>APRIORA</name>
         <version>0.5</version>
         <description>Estimation of flow and Active Pharmaceutical Ingredients (API) in a catchment. Requires the 'scikit-learn' Python library (install via OSGeo4W Shell).</description>
-        <!--about>This plugin contains a series of tools divided into two subgroups: Flow Estimation and API emission. Flow estimation -> useful to estimate annual mean flow and annual mean low flow in ungauged subcatchments. API emission -> calculate the load of API from waste water treatment plants and their concentration in the river network.<about>
+        <about>This plugin contains a series of tools divided into two subgroups: Flow Estimation and API emission. Flow estimation -> useful to estimate annual mean flow and annual mean low flow in ungauged subcatchments. API emission -> calculate the load of API from waste water treatment plants and their concentration in the river network.<about>
         <!--homepage>https://github.com/cridrive66/APRIORA-rep</homepage-->
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>APRIORA-main.zip</file_name>
-        <download_url>https://unibox.uni-rostock.de/dl/fiXPCSwp2tDh7ABLFCR1zy/APRIORA-main.zip</download_url>
+        <download_url>https://unibox.uni-rostock.de/dl/fiVyMqhEa1dNzA9vCgj8ig/APRIORA-main.zip</download_url>
         <author_name>Cristiano Guidi</author_name>
         <experimental>false</experimental>
         <deprecated>false</deprecated>
