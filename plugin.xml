@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="APRIORA" version="0.4">
+    <pyqgis_plugin name="APRIORA" version="0.5">
         <name>APRIORA</name>
-        <version>0.4</version>
+        <version>0.5</version>
         <description>Estimation of flow and Active Pharmaceutical Ingredients (API) in a catchment. Requires the 'scikit-learn' Python library (install via OSGeo4W Shell).</description>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>APRIORA.zip</file_name>
-        <download_url>https://unibox.uni-rostock.de/dl/fiYGKzmVAFchdZhhud9jhV/APRIORA.zip</download_url>
+        <download_url>https://unibox.uni-rostock.de/dl/fi3KFo1EAL2zTZUratLGeG/APRIORA.zip</download_url>
         <author_name>Cristiano Guidi</author_name>
         <experimental>false</experimental>
         <deprecated>false</deprecated>
